@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 
-// klasa uczniow
+// klasa uczniow 4emol123
 class Uczen
 {
 public:
